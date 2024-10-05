@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, Link } from "react";
 import "../index.css";
 
 const Navigation = () => {
@@ -75,9 +75,11 @@ const HeroSection = () => {
   return (
     <div className="flex flex-col items-center justify-center h-full text-white text-center p-4">
       <h1 className="text-[60px] font-comfortaa font-bold">Explore Ethiopia</h1>
-      <button className="mt-4 bg-yellow-500 text-white px-6 py-2 rounded">
-        Learn More
-      </button>
+      <Link to="/about">
+        <button className="mt-4 bg-yellow-500 text-white px-6 py-2 rounded">
+          Learn More
+        </button>
+      </Link>
     </div>
   );
 };
