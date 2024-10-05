@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, Link } from "react";
 import "../index.css";
 
 const Navigation = () => {
@@ -51,9 +51,9 @@ const Navigation = () => {
       {/* Mobile Menu */}
       {isOpen && (
         <div className="absolute top-16 right-0 w-full bg-gray-800 text-white sm:hidden flex flex-col items-center space-y-4 py-6">
-          <a href="#" className="text-white">
+          <Link to="/" className="text-white">
             Home
-          </a>
+          </Link>
           <a href="/about" className="text-white">
             About us
           </a>
