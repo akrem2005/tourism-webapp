@@ -1,4 +1,4 @@
-Here's the revised `README.md` for your **Ethio Tour App**:
+Here's the revised `README.md` for your **Ethio Tour App** with the added link to Selive:
 
 ---
 
@@ -10,10 +10,7 @@ Welcome to the **Ethio Tour App**, a beautifully crafted tourism web application
 
 ## 🚀 Features
 
-- 🌄 **Explore Destinations**: Discover Ethiopia's top travel spots and hidden gems.
-- 🏨 **Accommodation Listings**: Find and book the best places to stay, from hotels to guesthouses.
-- 💬 **User Reviews**: Read real reviews and experiences from fellow travelers to make informed choices.
-- 🗺️ **Interactive Map**: Navigate through locations effortlessly with our integrated interactive map.
+- 🌄 **Explore Destinations**: Discover Ethiopia's top travel spots.
 - 📱 **Responsive Design**: Enjoy a seamless experience on desktops, tablets, and mobile devices.
 
 ## 🛠 Technologies Used
@@ -22,9 +19,6 @@ Welcome to the **Ethio Tour App**, a beautifully crafted tourism web application
 
   - [React](https://reactjs.org/) - A powerful JavaScript library for building user interfaces.
   - [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework for creating modern designs.
-
-- **Backend**:
-  - [Express.js](https://expressjs.com/) - A fast and minimalist web framework for Node.js.
 
 ## 📦 Installation
 
@@ -56,7 +50,11 @@ To run the Ethio Tour App locally, follow these steps:
 
 5. Open your browser and visit `http://localhost:3000`.
 
+## 🌐 Live Demo
+
+Check out the live demo of the Ethio Tour App [here](https://tourism-webapp-wine.vercel.app/).
+
 ## 👨‍💻 Created by
 
 **Akrem Abdulkadir**  
-Passionate developer and travel enthusiast.
+Passionate developer.
